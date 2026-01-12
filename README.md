@@ -28,25 +28,33 @@ Proven ability to translate **business problems into data-driven solutions**.
 
 <hr/>
 
-## 💡 Core Skills
 
 ### 🔹 Programming & Data
-Python • SQL • Pandas • NumPy  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+Python • SQL • Pandas • NumPy • DuckDB  
 
 ### 🔹 Machine Learning
-Regression • Classification • Tree-based Models • XGBoost  
-Feature Engineering • Model Optimization  
+Regression • Classification • Random Forest • XGBoost • Feature Engineering  
 
 ### 🔹 Analytics & BI
-EDA • Statistical Analysis • Power BI • Business Insights  
+EDA • Statistical Analysis • Power BI  
 
-### 🔹 MLOps (Basic)
-MLflow • AWS (Exposure) • Model Monitoring Concepts  
+### 🔹 Generative AI
+LLMs • OpenAI APIs • RAG • Embeddings • Prompt Engineering  
 
-### 🔹 AI / NLP (Exposure)
-NLP Basics • Hugging Face • OpenAI APIs  
+### 🔹 Agentic AI
+Tool Calling • LangChain • LangGraph (Intro)  
+
+### 🔹 AI Engineering
+FastAPI • Streamlit • REST APIs  
+
+### 🔹 MLOps & Cloud
+MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts  
 
 <hr/>
+
 
 ## 🧑‍💻 Professional Experience
 
@@ -65,7 +73,7 @@ NLP Basics • Hugging Face • OpenAI APIs
 ## 🚀 Key Projects
 
 ### 🔹 Predicting Time to Failure for Industrial Machines  
-*(Feb 2024 – Present)*
+
 
 - Developed a **predictive maintenance model** for proactive maintenance scheduling  
 - Improved model performance by **19%**, reducing unplanned downtime  
@@ -74,7 +82,7 @@ NLP Basics • Hugging Face • OpenAI APIs
 ---
 
 ### 🔹 Malicious Web Page Detection System  
-*(Jun 2023 – Jan 2024)*
+
 
 - Built a **classification model** to detect malicious web pages  
 - Achieved **98.67% accuracy** through robust preprocessing and tuning  
@@ -83,7 +91,7 @@ NLP Basics • Hugging Face • OpenAI APIs
 ---
 
 ### 🔹 Customer Buying Behavior Analysis  
-*(Mar 2022 – May 2023)*
+
 
 - Designed a predictive model with **89.6% accuracy**  
 - Conducted EDA, data cleaning, and visualization  
@@ -93,12 +101,11 @@ NLP Basics • Hugging Face • OpenAI APIs
 
 ## ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,aws,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,streamlit,docker,aws,mongodb,git,github" />
 </p>
 
-**Also used:**  
-Power BI • MLflow • TensorFlow • Keras • PyTorch • PyCharm  
-
 <hr/>
+
+
 
 
