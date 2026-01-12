@@ -99,7 +99,7 @@ MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts
 
 ## ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,langchain,lama index,docker,aws,mongodb,git,github,openai,ollama" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,docker,aws,mongodb,git,github,openai" />
 </p>
 
 <hr/>
