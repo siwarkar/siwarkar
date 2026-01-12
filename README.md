@@ -16,6 +16,7 @@
 
 📧 **Email:** s.iwarkar6@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/swapnil-iwarkar66  
+  https://siwarkar.github.io/swapnil-portfolio/
 
 <hr/>
 
@@ -100,17 +101,4 @@ Power BI • MLflow • TensorFlow • Keras • PyTorch • PyCharm
 
 <hr/>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siwarkar&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siwarkar&theme=radical&hide_border=true" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siwarkar&color=ff2e88&style=flat-square" />
-</p>
