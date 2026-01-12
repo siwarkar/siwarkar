@@ -30,9 +30,7 @@ Proven ability to translate **business problems into data-driven solutions**.
 
 
 ### 🔹 Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+
 Python • SQL • Pandas • NumPy • DuckDB  
 
 ### 🔹 Machine Learning
@@ -101,7 +99,7 @@ MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts
 
 ## ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,streamlit,docker,aws,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,langchain,lama index,docker,aws,mongodb,git,github,openai,ollama" />
 </p>
 
 <hr/>
