@@ -1,18 +1,17 @@
 <h1 align="center">
-  <span style="color:#ff2e88;">Applied AI & Data Scientist</span>
+  <span style="color:#ff2e88;">Data Scientist</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff2e88&center=true&vCenter=true&width=800&lines=Applied+AI+%7C+Machine+Learning+%7C+Generative+AI;Agentic+AI+%7C+RAG+%7C+LLM+Applications;Analytics+%7C+Business+Impact+Driven+ML;4%2B+Years+Industry+Experience" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff2e88&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+EDA+%7C+Business+Insights;4+Years+of+Industry+Experience" />
 </p>
 
 <hr/>
 
-## 👋 Welcome to my GitHub
+## 👋 About Me
 
-🎯 **Swapnil Iwarkar**  
-🧠 **Applied AI & Data Scientist**  
-📊 **Analytics | Machine Learning | Generative AI | Agentic AI**  
+👤 **Swapnil Iwarkar**  
+📊 **Data Scientist | Analytics | Machine Learning**  
 📍 **Maharashtra, India**  
 
 📧 **Email:** s.iwarkar6@gmail.com  
@@ -22,37 +21,29 @@
 
 ## 🧠 Professional Summary
 
-Applied AI & Data Scientist with **4+ years of experience** delivering **business-impact-driven ML, Generative AI, and Agentic AI solutions**.  
-Strong foundation in **classical machine learning, analytics**, and **hands-on expertise with LLM-powered systems** including **RAG, prompt engineering, and autonomous agents**.  
-Experienced in translating complex analytical outputs into **actionable insights for stakeholders**.
+Data Scientist with **4 years of experience** in building **predictive and classification models** that deliver measurable business impact.  
+Strong expertise in **Python, SQL, Machine Learning, and Analytics**, with hands-on experience across the **entire ML lifecycle** — from data preprocessing and feature engineering to model evaluation and stakeholder communication.  
+Proven ability to translate **business problems into data-driven solutions**.
 
 <hr/>
 
 ## 💡 Core Skills
 
 ### 🔹 Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-Python • SQL • Pandas • NumPy • DuckDB  
+Python • SQL • Pandas • NumPy  
 
 ### 🔹 Machine Learning
-Regression • Classification • Random Forest • XGBoost • Feature Engineering  
+Regression • Classification • Tree-based Models • XGBoost  
+Feature Engineering • Model Optimization  
 
 ### 🔹 Analytics & BI
-EDA • Statistical Analysis • Power BI  
+EDA • Statistical Analysis • Power BI • Business Insights  
 
-### 🔹 Generative AI
-LLMs • OpenAI APIs • RAG • Embeddings • Prompt Engineering  
+### 🔹 MLOps (Basic)
+MLflow • AWS (Exposure) • Model Monitoring Concepts  
 
-### 🔹 Agentic AI
-Tool Calling • LangChain • LangGraph (Intro)  
-
-### 🔹 AI Engineering
-FastAPI • Streamlit • REST APIs  
-
-### 🔹 MLOps & Cloud
-MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts  
+### 🔹 AI / NLP (Exposure)
+NLP Basics • Hugging Face • OpenAI APIs  
 
 <hr/>
 
@@ -61,44 +52,65 @@ MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts
 ### **Data Scientist – BSW Soft**  
 📅 *Jan 2022 – Present*
 
-- Built and deployed **ML & AI-driven solutions** for real-world business problems  
-- Developed **regression & classification models** with strong feature engineering  
-- Performed **EDA, preprocessing, and SQL-based analysis**  
-- Integrated **LLM-based components** into analytics workflows  
-- Delivered **business-friendly insights** to non-technical stakeholders  
+- Built and deployed **predictive and classification models** to solve real-world business problems  
+- Improved **decision-making and operational efficiency** through data-driven solutions  
+- Performed extensive **data cleaning, preprocessing, and feature engineering**  
+- Used **Python and SQL** for data manipulation, EDA, and model development  
+- Collaborated with business and technical stakeholders on scalable solutions  
+- Presented insights and model results to **non-technical teams**
 
 <hr/>
 
 ## 🚀 Key Projects
 
-### 🔹 GenAI Knowledge Assistant (RAG)
-- Built embedding-based **semantic retrieval system** with vector database  
-- Developed **FastAPI backend** and **Streamlit UI**  
-- Reduced document search & analysis time by **~60%**
+### 🔹 Predicting Time to Failure for Industrial Machines  
+*(Feb 2024 – Present)*
 
-### 🔹 Agentic AI Data Analysis Assistant
-- Built **Agentic AI system** to autonomously perform EDA  
-- Generated **business-friendly insights using LLMs**  
-- Reduced analyst effort by **~50%**
+- Developed a **predictive maintenance model** for proactive maintenance scheduling  
+- Improved model performance by **19%**, reducing unplanned downtime  
+- Applied advanced **feature engineering and ML techniques**
 
-### 🔹 Predictive Maintenance – Time to Failure
-- Forecasted machine failures for proactive maintenance  
-- Improved model performance by **19%**  
-- Reduced downtime and supported cost savings  
+---
 
-### 🔹 Malicious Web Page Detection
-- ML classification model with **98.67% accuracy**  
-- Enhanced online threat detection & reduced false positives  
+### 🔹 Malicious Web Page Detection System  
+*(Jun 2023 – Jan 2024)*
 
-### 🔹 Customer Buying Behavior Analysis
-- Predictive model with **89.6% accuracy**  
-- Enabled optimization of marketing strategies & profitability  
+- Built a **classification model** to detect malicious web pages  
+- Achieved **98.67% accuracy** through robust preprocessing and tuning  
+- Reduced false positives and improved threat detection reliability  
+
+---
+
+### 🔹 Customer Buying Behavior Analysis  
+*(Mar 2022 – May 2023)*
+
+- Designed a predictive model with **89.6% accuracy**  
+- Conducted EDA, data cleaning, and visualization  
+- Enabled **marketing optimization and improved profitability**
 
 <hr/>
 
 ## ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,streamlit,docker,aws,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,mongodb,git,github" />
+</p>
+
+**Also used:**  
+Power BI • MLflow • TensorFlow • Keras • PyTorch • PyCharm  
+
+<hr/>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siwarkar&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siwarkar&theme=radical&hide_border=true" />
 </p>
 
 <hr/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siwarkar&color=ff2e88&style=flat-square" />
+</p>
