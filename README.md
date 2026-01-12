@@ -102,25 +102,3 @@ MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts
 </p>
 
 <hr/>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siwarkar&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siwarkar&theme=radical&hide_border=true" />
-</p>
-
-<hr/>
-
-## 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siwarkar&color=ff2e88&style=flat-square" />
-</p>
