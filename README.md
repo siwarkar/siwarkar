@@ -16,7 +16,7 @@
 
 📧 **Email:** s.iwarkar6@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/swapnil-iwarkar66  
-  https://siwarkar.github.io/swapnil-portfolio/
+<img https://github.com/siwarkar/siwarkar/blob/main/linkedin.png> https://siwarkar.github.io/swapnil-portfolio/
 
 <hr/>
 
