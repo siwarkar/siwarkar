@@ -70,6 +70,18 @@ MLflow (Basic) • AWS EC2 • AWS S3 • Monitoring Concepts
 
 ## 🚀 Key Projects
 
+### 🔹 GenAI Knowledge Assistant (RAG)
+- Built embedding-based **semantic retrieval system** with vector database  
+- Developed **FastAPI backend** and **Streamlit UI**  
+- Reduced document search & analysis time by **~60%**
+
+### 🔹 Agentic AI Data Analysis Assistant
+- Built **Agentic AI system** to autonomously perform EDA  
+- Generated **business-friendly insights using LLMs**  
+- Reduced analyst effort by **~50%**
+
+
+
 ### 🔹 Predicting Time to Failure for Industrial Machines  
 
 
